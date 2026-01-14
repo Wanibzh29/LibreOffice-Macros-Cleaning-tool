@@ -1,5 +1,5 @@
 # LibreOffice-Macros-Cleaning-tools
-A collection of little macros to clean the documents.
+A collection of little macros to clean the text's documents.
 
 ## I. Licences
 - 2003-Now An Drouizig
