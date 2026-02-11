@@ -1,4 +1,4 @@
-Sub ReformaterTexteDepuisEmailPDF()
+Sub Remplacer_sauts_de_lignes_et_supprimer_espaces_multiples()
     Dim oDoc As Object
     Dim oParEnum As Object
     Dim oPar As Object
